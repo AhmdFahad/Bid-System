@@ -1,0 +1,22 @@
+.monitor-container {
+    height: 100vh;
+    background-color: black;
+    color: lime;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .monitor-title {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    color: white;
+  }
+  
+  .monitor-bid {
+    font-size: 8rem;
+    font-weight: bold;
+  }
+  
